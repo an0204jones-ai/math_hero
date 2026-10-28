@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ENG_101",
+    "grade_stage": "grade1_2",
+    "category": "Phonics & Sounds",
+    "level": 1,
+    "question_en": "Which word starts with the letter 'B' and makes the /b/ sound?",
+    "question_zh": "哪一個單字是以字母「B」開頭，並且發出 /b/ 的聲音？",
+    "hint_en": "Think of an animal that flies or an object you bounce.",
+    "hint_zh": "想想看可以拍打跳動的球，或是會飛的小鳥。",
+    "options": [
+      { "label": "A", "text_en": "Ball", "text_zh": "Ball (球)" },
+      { "label": "B", "text_en": "Cat", "text_zh": "Cat (貓)" },
+      { "label": "C", "text_en": "Apple", "text_zh": "Apple (蘋果)" },
+      { "label": "D", "text_en": "Duck", "text_zh": "Duck (鴨子)" }
+    ],
+    "correct_answer": "A",
+    "explanation_en": "'Ball' starts with the letter 'B' and the /b/ sound.",
+    "explanation_zh": "Ball 的字首字母是 B，發音為 /b/。"
+  },
+  {
+    "id": "ENG_102",
+    "grade_stage": "grade1_2",
+    "category": "Sight Words",
+    "level": 2,
+    "question_en": "Choose the correct color: The sky on a sunny day is ________.",
+    "question_zh": "選出正確的顏色：晴朗的天空是________的。",
+    "hint_en": "Look up! What color is the clear sky?",
+    "hint_zh": "抬頭看！晴朗無雲的天空是什麼顏色？",
+    "options": [
+      { "label": "A", "text_en": "blue", "text_zh": "blue (藍色)" },
+      { "label": "B", "text_en": "red", "text_zh": "red (紅色)" },
+      { "label": "C", "text_en": "yellow", "text_zh": "yellow (黃色)" },
+      { "label": "D", "text_en": "green", "text_zh": "green (綠色)" }
+    ],
+    "correct_answer": "A",
+    "explanation_en": "The clear sky during the day is blue.",
+    "explanation_zh": "白天的晴朗天空通常是藍色 (blue)。"
+  },
+  {
+    "id": "ENG_103",
+    "grade_stage": "grade1_2",
+    "category": "Everyday Dialogue",
+    "level": 3,
+    "question_en": "Teacher: \"Good morning, class!\"\nStudents: \"________, Teacher!\"",
+    "question_zh": "老師：「同學們早安！」\n學生：「老師，________！」",
+    "hint_en": "Reply with the same greeting used in the morning.",
+    "hint_zh": "在早晨時，要用相同的早安問候語回應。",
+    "options": [
+      { "label": "A", "text_en": "Good morning", "text_zh": "Good morning (早安)" },
+      { "label": "B", "text_en": "Good night", "text_zh": "Good night (晚安)" },
+      { "label": "C", "text_en": "Goodbye", "text_zh": "Goodbye (再見)" },
+      { "label": "D", "text_en": "Thank you", "text_zh": "Thank you (謝謝你)" }
+    ],
+    "correct_answer": "A",
+    "explanation_en": "When someone greets you with 'Good morning', reply with 'Good morning'.",
+    "explanation_zh": "當別人跟你說 Good morning (早安) 時，標準回應也是 Good morning。"
+  },
+  {
+    "id": "ENG_104",
+    "grade_stage": "grade1_2",
+    "category": "Basic Numbers & Plural",
+    "level": 4,
+    "question_en": "Look at the picture: 🍎 🍎 🍎. How many apples are there?",
+    "question_zh": "看圖片：🍎 🍎 🍎。這裡有幾顆蘋果？",
+    "hint_en": "Count them: 1, 2, 3...",
+    "hint_zh": "數數看：一、二、三...",
+    "options": [
+      { "label": "A", "text_en": "Three apples", "text_zh": "Three apples (三顆蘋果)" },
+      { "label": "B", "text_en": "Two apples", "text_zh": "Two apples (兩顆蘋果)" },
+      { "label": "C", "text_en": "Four apples", "text_zh": "Four apples (四顆蘋果)" },
+      { "label": "D", "text_en": "One apple", "text_zh": "One apple (一顆蘋果)" }
+    ],
+    "correct_answer": "A",
+    "explanation_en": "There are 3 apples in total: 'Three apples'.",
+    "explanation_zh": "總共有 3 顆蘋果，且多於一顆名詞要加 s，因此是 'Three apples'。"
+  },
+  {
+    "id": "ENG_105",
+    "grade_stage": "grade1_2",
+    "category": "Grammar & Pronouns",
+    "level": 5,
+    "question_en": "This is my friend Leo. ________ is 7 years old.",
+    "question_zh": "這是我的朋友 Leo。________今年 7 歲。",
+    "hint_en": "Leo is a boy. Which pronoun do we use for a boy?",
+    "hint_zh": "Leo 是一個男生的名字，男生的代名詞要用哪一個？",
+    "options": [
+      { "label": "A", "text_en": "He", "text_zh": "He (他/男生)" },
+      { "label": "B", "text_en": "She", "text_zh": "She (她/女生)" },
+      { "label": "C", "text_en": "It", "text_zh": "It (它/事物或動物)" },
+      { "label": "D", "text_en": "They", "text_zh": "They (他們)" }
+    ],
+    "correct_answer": "A",
+    "explanation_en": "Leo is a boy's name, so we use 'He'.",
+    "explanation_zh": "Leo 是男生名，男性單數代名詞用 He。"
+  }
+]
