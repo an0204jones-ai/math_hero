@@ -246,7 +246,7 @@
     "categoryZh": "序數與位置",
     "categoryEn": "Logic Puzzle",
     "questionZh": "排隊買冰淇淋，小安從前面數來是第 4 個，從後面數來也是第 4 個。請問這一排一共有幾個人？",
-    "questionEn": "In line, An is 4th from front and 4th from back. How many people in total?",
+    "questionEn": "In line, Ann is 4th from front and 4th from back. How many people in total?",
     "optionsZh": ["7 人", "8 人", "9 人", "6 人"],
     "optionsEn": ["7 people", "8 people", "9 people", "6 people"],
     "correctIndex": 0,
